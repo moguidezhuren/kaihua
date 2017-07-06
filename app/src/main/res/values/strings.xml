@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="httpOnFailure">操作失败</string>
+    <string name="registerFailure">注册失败</string>
+    <string name="loginFailure">登录失败</string>
+    <string name="dataError">数据错误</string>
+</resources>
